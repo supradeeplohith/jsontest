@@ -1,8 +1,8 @@
 {
-	"aadhar": [{
+	"Room-1": [{
 		"light-1": "ON",
 		"light-2": "OFF",
-		"light-3": "OFF",
-		"light-4": "OFF"
+		"FAN-1": "OFF",
+		"FAN-2": "OFF"
 	}]
 }
